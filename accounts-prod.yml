@@ -10,7 +10,7 @@ accounts:
   message: "Welcome to JMO Devel Prod Accounts microservice"
   contact-details:
     name: "JMO Devel"
-    email: "jmo.devel@gmail.com"
+    email: "{cipher}7f21bd08af395c74b27df75d806dad9acfaa9be75142b567cdd72acb56cd8efebf962227b4b10c43d23ce6421df45db7"
   on-call-support:
     - (555) 555-1234
     - (555) 555-5678
