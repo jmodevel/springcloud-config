@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to JMO Devel Production Loans microservice"
+  message: "Welcome to JMO Devel Prod Loans microservice"
   contact-details:
     name: "JMO Devel"
     email: "jmo.devel@gmail.com"
