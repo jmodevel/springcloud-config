@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to JMO Devel Prod Cards microservice"
+  message: "Welcome to JMO Devel Production Cards microservice"
   contact-details:
     name: "JMO Devel"
     email: "jmo.devel@gmail.com"
