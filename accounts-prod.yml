@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to JMO Devel Production Accounts microservice"
+  message: "Welcome to JMO Devel Production Accounts MS"
   contact-details:
     name: "JMO Devel"
     email: "{cipher}7f21bd08af395c74b27df75d806dad9acfaa9be75142b567cdd72acb56cd8efebf962227b4b10c43d23ce6421df45db7"
