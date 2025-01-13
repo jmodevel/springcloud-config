@@ -9,7 +9,7 @@ spring:
     name: accounts
 
 accounts:
-  message: "Welcome to JMO Devel Default Accounts microservice"
+  message: "Welcome to JMO Devel Default Accounts ms"
   contact-details:
     name: "JMO Devel"
     email: "jmo.devel@gmail.com"
